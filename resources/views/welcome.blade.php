@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - SPARKING OUT PRACTICE!!!!
+                    Laravel - SPARKING OUT PRACTICE!!!
                 </div>
 
                 <div class="links">
